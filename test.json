@@ -1,0 +1,17 @@
+{
+    "version": "OP7Pro_H2_BETA_17",
+    "list": [
+        {
+            "package": "",
+            "path":"/system/app/AntHalService",
+            "description": "",
+            "type": "recommend"
+        },
+        {
+            "package": "com.qualcomm.qtil.aptxals",
+            "path":"/system/app/aptxals",
+            "description": "",
+            "type": "unknown"
+        }
+    ]
+}
