@@ -2,6 +2,76 @@
     "version": "OP7Pro_H2_BETA_17",
     "list": [
         {
+            "name": "name",
+            "package": "package",
+            "path": "path",
+            "type": "type",
+            "description": "description"
+        },
+        {
+            "name": "name",
+            "package": "package",
+            "path": "path",
+            "type": "type",
+            "description": "description"
+        },
+        {
+            "name": "name",
+            "package": "package",
+            "path": "path",
+            "type": "type",
+            "description": "description"
+        },
+        {
+            "name": "name",
+            "package": "package",
+            "path": "path",
+            "type": "type",
+            "description": "description"
+        },
+        {
+            "name": "name",
+            "package": "package",
+            "path": "path",
+            "type": "type",
+            "description": "description"
+        },
+        {
+            "name": "name",
+            "package": "package",
+            "path": "path",
+            "type": "type",
+            "description": "description"
+        },
+        {
+            "name": "name",
+            "package": "package",
+            "path": "path",
+            "type": "type",
+            "description": "description"
+        },
+        {
+            "name": "name",
+            "package": "package",
+            "path": "path",
+            "type": "type",
+            "description": "description"
+        },
+        {
+            "name": "name",
+            "package": "package",
+            "path": "path",
+            "type": "type",
+            "description": "description"
+        },
+        {
+            "name": "name",
+            "package": "package",
+            "path": "path",
+            "type": "type",
+            "description": "description"
+        },
+        {
             "name": "",
             "package": "",
             "path": "/system/app/AntHalService",
