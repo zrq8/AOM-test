@@ -3,14 +3,14 @@
     "list": [
         {
             "name": "",
-            "package": "",
+            "packageName": "",
             "path": "/system/app/AntHalService",
             "type": "recommend",
             "description": ""
         },
         {
             "name": "com.qualcomm.qtil.aptxals",
-            "package": "com.qualcomm.qtil.aptxals",
+            "packageName": "com.qualcomm.qtil.aptxals",
             "path": "/system/app/aptxals",
             "type": "unknown",
             "description": ""
