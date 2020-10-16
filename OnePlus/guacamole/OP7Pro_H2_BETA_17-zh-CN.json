@@ -1,0 +1,1434 @@
+{
+    "version": "OP7Pro_H2_BETA_17",
+    "lanuage": "zh-CN",
+    "list": [
+        {
+            "name": "ANT HAL Service",
+            "package": "com.dsi.ant.server",
+            "path": "/system/app/AntHalService/AntHalService.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "BTtestmode",
+            "package": "com.oneplus.bttestmode",
+            "path": "/system/app/BTtestmode/BTtestmode.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "备份与恢复",
+            "package": "com.android.backup",
+            "path": "/system/app/Backup/Backup.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "BackupRestoreRemoteService",
+            "package": "com.oneplus.backuprestore.remoteservice",
+            "path": "/system/app/BackupRestoreRemoteService/BackupRestoreRemoteService.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "基本互动屏保",
+            "package": "com.android.dreams.basic",
+            "path": "/system/app/BasicDreams/BasicDreams.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "蓝牙",
+            "package": "com.android.bluetooth",
+            "path": "/system/app/Bluetooth/Bluetooth.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "org.codeaurora.bluetooth",
+            "package": "org.codeaurora.bluetooth",
+            "path": "/system/app/BluetoothExt/BluetoothExt.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Bluetooth MIDI Service",
+            "package": "com.android.bluetoothmidiservice",
+            "path": "/system/app/BluetoothMidiService/BluetoothMidiService.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "默认打印服务",
+            "package": "com.android.bips",
+            "path": "/system/app/BuiltInPrintService/BuiltInPrintService.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "日历",
+            "package": "com.oneplus.calendar",
+            "path": "/system/app/Calendar/Calendar.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "运营商默认应用",
+            "package": "com.android.carrierdefaultapp",
+            "path": "/system/app/CarrierDefaultApp/CarrierDefaultApp.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "证书安装程序",
+            "package": "com.android.certinstaller",
+            "path": "/system/app/CertInstaller/CertInstaller.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "配套设备管理器",
+            "package": "com.android.companiondevicemanager",
+            "path": "/system/app/CompanionDeviceManager/CompanionDeviceManager.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.android.cts.ctsshim",
+            "package": "com.android.cts.ctsshim",
+            "path": "/system/app/CtsShimPrebuilt/CtsShimPrebuilt.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "DMApp",
+            "package": "com.heytap.datamigration",
+            "path": "/system/app/DataMigration/DataMigration.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "时钟",
+            "package": "com.oneplus.deskclock",
+            "path": "/system/app/DeskClock/DeskClock.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.oneplus.factorymode.specialtest",
+            "package": "com.oneplus.factorymode.specialtest",
+            "path": "/system/app/EngSpecialTest/EngSpecialTest.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "工程模式",
+            "package": "com.oneplus.factorymode",
+            "path": "/system/app/EngineeringMode/EngineeringMode.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Exchange服务",
+            "package": "com.android.exchange",
+            "path": "/system/app/Exchange2/Exchange2.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Android Shared Library",
+            "package": "com.google.android.ext.shared",
+            "path": "/system/app/GoogleExtShared/GoogleExtShared.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Print Service Recommendation Service",
+            "package": "com.google.android.printservice.recommendation",
+            "path": "/system/app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "帐号",
+            "package": "com.oneplus.account",
+            "path": "/system/app/HTAccount/HTAccount.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "HTML 查看程序",
+            "package": "com.android.htmlviewer",
+            "path": "/system/app/HTMLViewer/HTMLViewer.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "密钥链",
+            "package": "com.android.keychain",
+            "path": "/system/app/KeyChain/KeyChain.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Live Wallpaper Picker",
+            "package": "com.android.wallpaper.livepicker",
+            "path": "/system/app/LiveWallpapersPicker/LiveWallpapersPicker.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.oem.logkitsdservice",
+            "package": "com.oem.logkitsdservice",
+            "path": "/system/app/LogKitSdService/LogKitSdService.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "nfc",
+            "package": "com.oem.nfc",
+            "path": "/system/app/NFCTestMode/NFCTestMode.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "NVBackupUI",
+            "package": "cn.oneplus.nvbackup",
+            "path": "/system/app/NVBackupUI/NVBackupUI.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "NFC服务",
+            "package": "com.android.nfc",
+            "path": "/system/app/NxpNfcNci/NxpNfcNci.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.android.se",
+            "package": "com.android.se",
+            "path": "/system/app/NxpSecureElement/NxpSecureElement.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "系统应用升级",
+            "package": "com.oneplus.appupgrader",
+            "path": "/system/app/OPAppUpgrader/OPAppUpgrader.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "系统更新",
+            "package": "com.oneplus.opbackup",
+            "path": "/system/app/OPBackup/OPBackup.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "禅定模式",
+            "package": "com.oneplus.brickmode",
+            "path": "/system/app/OPBreathMode/OPBreathMode.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "BugReportLite",
+            "package": "com.oneplus.opbugreportlite",
+            "path": "/system/app/OPBugReportLite/OPBugReportLite.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Common Log Tool",
+            "package": "net.oneplus.commonlogtool",
+            "path": "/system/app/OPCommonLogTool/OPCommonLogTool.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "文件管理",
+            "package": "com.oneplus.filemanager",
+            "path": "/system/app/OPFilemanager/OPFilemanager.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.oneplus.findmyphoneutils",
+            "package": "com.oneplus.findmyphoneutils",
+            "path": "/system/app/OPFindMyPhoneUtils/OPFindMyPhoneUtils.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "游戏空间",
+            "package": "com.oneplus.gamespace",
+            "path": "/system/app/OPGamingSpace/OPGamingSpace.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "OPGeoIpTime",
+            "package": "com.oneplus.geoiptime",
+            "path": "/system/app/OPGeoIpTime/OPGeoIpTime.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "DeliverServer",
+            "package": "com.oneplus.instant.local.service",
+            "path": "/system/app/OPInstantLocalService/OPInstantLocalService.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "OPAI",
+            "package": "com.oneplus.asti",
+            "path": "/system/app/OPIntelliService/OPIntelliService.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "OnePlus Wallpaper",
+            "package": "com.oneplus.wallpaper",
+            "path": "/system/app/OPLiveWallpaper/OPLiveWallpaper.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "截屏",
+            "package": "com.oneplus.screenshot",
+            "path": "/system/app/OPLongshot/OPLongshot.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "OPConfig",
+            "package": "com.oneplus.config",
+            "path": "/system/app/OPOnlineConfig/OPOnlineConfig.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Push",
+            "package": "net.oneplus.push",
+            "path": "/system/app/OPPush/OPPush.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "管理中心",
+            "package": "com.oneplus.security",
+            "path": "/system/app/OPSafe/OPSafe.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "屏幕录制",
+            "package": "com.oneplus.screenrecord",
+            "path": "/system/app/OPScreenRecord/OPScreenRecord.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "OPSes",
+            "package": "com.oneplus.ses",
+            "path": "/system/app/OPSesAuthentication/OPSesAuthentication.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "杜比全景声",
+            "package": "com.oneplus.sound.tuner",
+            "path": "/system/app/OPSoundTuner/OPSoundTuner.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "OPTelephonyDiagnoseManager",
+            "package": "com.oneplus.diagnosemanager",
+            "path": "/system/app/OPTelephonyDiagnoseManager/OPTelephonyDiagnoseManager.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "OPTelephonyOptimization",
+            "package": "com.oneplus.telephonyoptimization",
+            "path": "/system/app/OPTelephonyOptimization/OPTelephonyOptimization.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "NumberRecognition",
+            "package": "com.numberrecognition",
+            "path": "/system/app/OPYellowpage/OPYellowpage.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "AutoTestServer",
+            "package": "com.oem.autotest",
+            "path": "/system/app/OemAutoTestServer/OemAutoTestServer.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "一加日志工具",
+            "package": "com.oem.oemlogkit",
+            "path": "/system/app/OpLogkit/OpLogkit.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "OpenID",
+            "package": "com.heytap.openid",
+            "path": "/system/app/OpenIdProvider/OpenIdProvider.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "开屏信息展示服务",
+            "package": "com.opos.ads",
+            "path": "/system/app/OposAds/OposAds.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "OsuLogin",
+            "package": "com.android.hotspot2",
+            "path": "/system/app/OsuLogin/OsuLogin.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "PacProcessor",
+            "package": "com.android.pacprocessor",
+            "path": "/system/app/PacProcessor/PacProcessor.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.oneplus.permissionutil",
+            "package": "com.oneplus.permissionutil",
+            "path": "/system/app/PermissionUtil/PermissionUtil.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Shot on OnePlus 在线壁纸",
+            "package": "cn.oneplus.photos",
+            "path": "/system/app/PhotosOnline/PhotosOnline.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "CaptivePortalLogin",
+            "package": "com.android.captiveportallogin",
+            "path": "/system/app/PlatformCaptivePortalLogin/PlatformCaptivePortalLogin.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "打印处理服务",
+            "package": "com.android.printspooler",
+            "path": "/system/app/PrintSpooler/PrintSpooler.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "QColor",
+            "package": "com.qualcomm.qti.qcolor",
+            "path": "/system/app/QColor/QColor.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "RfToolkit",
+            "package": "com.oem.rftoolkit",
+            "path": "/system/app/Rftoolkit/Rftoolkit.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.oneplus.sdcardservice",
+            "package": "com.oneplus.sdcardservice",
+            "path": "/system/app/SdCardService/SdCardService.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Sensor Test Tool",
+            "package": "com.fingerprints.fingerprintsensortest",
+            "path": "/system/app/SensorTestTool/SensorTestTool.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Sim App Dialog",
+            "package": "com.android.simappdialog",
+            "path": "/system/app/SimAppDialog/SimAppDialog.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.oneplus.sms.smscplugger",
+            "package": "com.oneplus.sms.smscplugger",
+            "path": "/system/app/SmscPlugger/SmscPlugger.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "aidlserverdemo",
+            "package": "com.tencent.soter.soterserver",
+            "path": "/system/app/SoterService/SoterService.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "录音机",
+            "package": "com.oneplus.soundrecorder",
+            "path": "/system/app/SoundRecorder/SoundRecorder.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "SIM卡工具包",
+            "package": "com.android.stk",
+            "path": "/system/app/Stk/Stk.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "系统跟踪",
+            "package": "com.android.traceur",
+            "path": "/system/app/Traceur/Traceur.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.android.smspush",
+            "package": "com.android.smspush",
+            "path": "/system/app/WAPPushManager/WAPPushManager.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.android.wallpaperbackup",
+            "package": "com.android.wallpaperbackup",
+            "path": "/system/app/WallpaperBackup/WallpaperBackup.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "WAPI证书",
+            "package": "com.wapi.wapicertmanage",
+            "path": "/system/app/WapiCertManage/WapiCertManage.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "WifiRfTest",
+            "package": "com.example.wifirftest",
+            "path": "/system/app/WifiRfTestApk/WifiRfTestApk.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.qualcomm.qtil.aptxals",
+            "package": "com.qualcomm.qtil.aptxals",
+            "path": "/system/app/aptxals/aptxals.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "百度输入法一加版",
+            "package": "com.baidu.input_yijia",
+            "path": "/system/app/baidushurufa/baidushurufa.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "系统消息",
+            "package": "com.heytap.mcs",
+            "path": "/system/app/heytap_mcs_cn/heytap_mcs_cn.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "安全支付",
+            "package": "com.nearme.atlas",
+            "path": "/system/app/nearme/nearme.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "cn.oneplus.oemtcma",
+            "package": "cn.oneplus.oemtcma",
+            "path": "/system/app/oem_tcma/oem_tcma.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "网络位置",
+            "package": "com.amap.android.location",
+            "path": "/system/priv-app/AutoNaviNLP/AutoNaviNLP.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.android.backupconfirm",
+            "package": "com.android.backupconfirm",
+            "path": "/system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "存储已屏蔽的号码",
+            "package": "com.android.providers.blockednumber",
+            "path": "/system/priv-app/BlockedNumberProvider/BlockedNumberProvider.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Call Log Backup/Restore",
+            "package": "com.android.calllogbackup",
+            "path": "/system/priv-app/CallLogBackup/CallLogBackup.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "云服务",
+            "package": "com.heytap.cloud",
+            "path": "/system/priv-app/CloudServiceCN/CloudServiceCN.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "通讯录",
+            "package": "com.oneplus.contacts",
+            "path": "/system/priv-app/Contacts/Contacts.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "联系人存储",
+            "package": "com.android.providers.contacts",
+            "path": "/system/priv-app/ContactsProvider/ContactsProvider.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.android.cts.priv.ctsshim",
+            "package": "com.android.cts.priv.ctsshim",
+            "path": "/system/priv-app/CtsShimPrivPrebuilt/CtsShimPrivPrebuilt.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "电话",
+            "package": "com.android.dialer",
+            "path": "/system/priv-app/Dialer/Dialer.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "内容下载管理器",
+            "package": "com.android.providers.downloads",
+            "path": "/system/priv-app/DownloadProvider/DownloadProvider.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "下载",
+            "package": "com.android.providers.downloads.ui",
+            "path": "/system/priv-app/DownloadProviderUi/DownloadProviderUi.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Dynamic System Updates",
+            "package": "com.android.dynsystem",
+            "path": "/system/priv-app/DynamicSystemInstallationService/DynamicSystemInstallationService.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "紧急救援",
+            "package": "com.android.emergency",
+            "path": "/system/priv-app/EmergencyInfo/EmergencyInfo.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "外部存储设备",
+            "package": "com.android.externalstorage",
+            "path": "/system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "一体化位置信息",
+            "package": "com.android.location.fused",
+            "path": "/system/priv-app/FusedLocation/FusedLocation.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "搜索",
+            "package": "com.heytap.quicksearchbox",
+            "path": "/system/priv-app/GlobalSearch/GlobalSearch.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "文件",
+            "package": "com.google.android.documentsui",
+            "path": "/system/priv-app/GoogleDocumentsUIPrebuilt/GoogleDocumentsUIPrebuilt.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Android Services Library",
+            "package": "com.google.android.ext.services",
+            "path": "/system/priv-app/GoogleExtServicesPrebuilt/GoogleExtServicesPrebuilt.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "houston",
+            "package": "com.oneplus.houston",
+            "path": "/system/priv-app/Houston/Houston.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "IFAAService",
+            "package": "com.oneplus.ifaaservice",
+            "path": "/system/priv-app/IFAAService/IFAAService.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "NetworkStack",
+            "package": "com.android.networkstack.inprocess",
+            "path": "/system/priv-app/InProcessNetworkStack/InProcessNetworkStack.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "输入设备",
+            "package": "com.android.inputdevices",
+            "path": "/system/priv-app/InputDevices/InputDevices.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "快应用",
+            "package": "com.nearme.instant.platform",
+            "path": "/system/priv-app/InstantPlatform/InstantPlatform.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.android.localtransport",
+            "package": "com.android.localtransport",
+            "path": "/system/priv-app/LocalTransport/LocalTransport.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "工作设置",
+            "package": "com.android.managedprovisioning",
+            "path": "/system/priv-app/ManagedProvisioning/ManagedProvisioning.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "媒体存储设备",
+            "package": "com.android.providers.media",
+            "path": "/system/priv-app/MediaProvider/MediaProvider.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "MessageExternalStorage",
+            "package": "com.oneplus.mms.ext",
+            "path": "/system/priv-app/Mms-Ext/Mms-Ext.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "MmsService",
+            "package": "com.android.mms.service",
+            "path": "/system/priv-app/MmsService/MmsService.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "MTP 主机",
+            "package": "com.android.mtp",
+            "path": "/system/priv-app/MtpDocumentsProvider/MtpDocumentsProvider.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "浏览器",
+            "package": "com.heytap.browser",
+            "path": "/system/priv-app/NearmeBrowser/NearmeBrowser.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.android.ons",
+            "package": "com.android.ons",
+            "path": "/system/priv-app/ONS/ONS.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Ambient Display",
+            "package": "com.oneplus.aod",
+            "path": "/system/priv-app/OPAod/OPAod.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "AppCategoryProvider",
+            "package": "net.oneplus.provider.appcategoryprovider",
+            "path": "/system/priv-app/OPAppCategoryProvider/OPAppCategoryProvider.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "日历存储",
+            "package": "com.android.providers.calendar",
+            "path": "/system/priv-app/OPCalendarProvider/OPCalendarProvider.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.oneplus.camera.resources",
+            "package": "com.oneplus.camera.resources",
+            "path": "/system/priv-app/OPCameraResources/OPCameraResources.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "小区广播",
+            "package": "com.android.cellbroadcastreceiver",
+            "path": "/system/priv-app/OPCellBroadcastReceiver/OPCellBroadcastReceiver.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Android 系统",
+            "package": "com.oneplus.coreservice",
+            "path": "/system/priv-app/OPCoreService/OPCoreService.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "一加系统服务",
+            "package": "net.oneplus.odm",
+            "path": "/system/priv-app/OPDeviceManager/OPDeviceManager.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Insight Provider",
+            "package": "net.oneplus.odm.provider",
+            "path": "/system/priv-app/OPDeviceManagerProvider/OPDeviceManagerProvider.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Face Unlock",
+            "package": "com.oneplus.faceunlock",
+            "path": "/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "一加手机找回",
+            "package": "com.oneplus.findmyphone",
+            "path": "/system/priv-app/OPFindMyPhone/OPFindMyPhone.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "一加桌面",
+            "package": "net.oneplus.launcher",
+            "path": "/system/priv-app/OPLauncher2/OPLauncher2.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "软件商店",
+            "package": "com.heytap.market",
+            "path": "/system/priv-app/OPMarket/OPMarket.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "信息",
+            "package": "com.oneplus.mms",
+            "path": "/system/priv-app/OPMms/OPMms.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "网络运营商",
+            "package": "com.qualcomm.qti.networksetting",
+            "path": "/system/priv-app/OPNetworkSetting/OPNetworkSetting.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "orm",
+            "package": "com.oneplus.orm",
+            "path": "/system/priv-app/OPOmm/OPOmm.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "开机向导",
+            "package": "com.oneplus.provision",
+            "path": "/system/priv-app/OPProvision/OPProvision.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.redteamobile.virtual.softsim",
+            "package": "com.redteamobile.virtual.softsim",
+            "path": "/system/priv-app/OPRoamingServiceRelease/OPRoamingServiceRelease.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "设置存储",
+            "package": "com.android.providers.settings",
+            "path": "/system/priv-app/OPSettingsProvider/OPSettingsProvider.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "SIM卡联系人管理",
+            "package": "com.oneplus.simcontacts",
+            "path": "/system/priv-app/OPSimContacts/OPSimContacts.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Breeno 语音",
+            "package": "com.heytap.speechassist",
+            "path": "/system/priv-app/OPVoiceAssistant/OPVoiceAssistant.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Voice Wakeup",
+            "package": "com.oneplus.voicewakeup",
+            "path": "/system/priv-app/OPVoiceWakeUp/OPVoiceWakeUp.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.oneplus.wifiapsettings",
+            "package": "com.oneplus.wifiapsettings",
+            "path": "/system/priv-app/OPWifiApSettings/OPWifiApSettings.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "相机",
+            "package": "com.oneplus.camera",
+            "path": "/system/priv-app/OnePlusCamera/OnePlusCamera.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "OnePlus Camera Service",
+            "package": "com.oneplus.camera.service",
+            "path": "/system/priv-app/OnePlusCameraService/OnePlusCameraService.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "图库",
+            "package": "com.oneplus.gallery",
+            "path": "/system/priv-app/OnePlusGallery/OnePlusGallery.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "一加互传",
+            "package": "com.oneplus.share",
+            "path": "/system/priv-app/OnePlusShare/OnePlusShare.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "软件包安装程序",
+            "package": "com.android.packageinstaller",
+            "path": "/system/priv-app/PackageInstaller/PackageInstaller.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "权限控制器",
+            "package": "com.android.permissioncontroller",
+            "path": "/system/priv-app/PermissionController/PermissionController.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.android.networkstack.permissionconfig",
+            "package": "com.android.networkstack.permissionconfig",
+            "path": "/system/priv-app/PlatformNetworkPermissionConfig/PlatformNetworkPermissionConfig.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "ProxyHandler",
+            "package": "com.android.proxyhandler",
+            "path": "/system/priv-app/ProxyHandler/ProxyHandler.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "RCS",
+            "package": "com.gsma.rcs",
+            "path": "/system/priv-app/RcsSDK/RcsSDK.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.android.sharedstoragebackup",
+            "package": "com.android.sharedstoragebackup",
+            "path": "/system/priv-app/SharedStorageBackup/SharedStorageBackup.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Shell",
+            "package": "com.android.shell",
+            "path": "/system/priv-app/Shell/Shell.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Intent Filter Verification Service",
+            "package": "com.android.statementservice",
+            "path": "/system/priv-app/StatementService/StatementService.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Tags",
+            "package": "com.android.apps.tag",
+            "path": "/system/priv-app/Tag/Tag.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "电话服务",
+            "package": "com.android.phone",
+            "path": "/system/priv-app/TeleService/TeleService.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "通话管理",
+            "package": "com.android.server.telecom",
+            "path": "/system/priv-app/Telecom/Telecom.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "电话和短信存储",
+            "package": "com.android.providers.telephony",
+            "path": "/system/priv-app/TelephonyProvider/TelephonyProvider.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "用户字典",
+            "package": "com.android.providers.userdictionary",
+            "path": "/system/priv-app/UserDictionaryProvider/UserDictionaryProvider.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "VpnDialogs",
+            "package": "com.android.vpndialogs",
+            "path": "/system/priv-app/VpnDialogs/VpnDialogs.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "钱包",
+            "package": "com.finshell.wallet",
+            "path": "/system/priv-app/Wallet/Wallet.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Wfd Service",
+            "package": "com.qualcomm.wfd.service",
+            "path": "/system/priv-app/WfdService/WfdService.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "LocationServices",
+            "package": "com.qualcomm.location",
+            "path": "/system/priv-app/com.qualcomm.location/com.qualcomm.location.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Dolby",
+            "package": "com.dolby.daxservice",
+            "path": "/system/priv-app/daxService/daxService.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Oneplus System",
+            "package": "com.oneplus",
+            "path": "/system/priv-app/oneplus-framework-res/oneplus-framework-res.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.qualcomm.qti.callfeaturessetting",
+            "package": "com.qualcomm.qti.callfeaturessetting",
+            "path": "/system/product/app/CallFeaturesSetting/CallFeaturesSetting.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Conference URI Dialer",
+            "package": "com.qti.confuridialer",
+            "path": "/system/product/app/ConfURIDialer/ConfURIDialer.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "设备信息",
+            "package": "com.qti.qualcomm.deviceinfo",
+            "path": "/system/product/app/DeviceInfo/DeviceInfo.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.qualcomm.qti.dynamicddsservice",
+            "package": "com.qualcomm.qti.dynamicddsservice",
+            "path": "/system/product/app/DynamicDDSService/DynamicDDSService.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Google通讯录同步",
+            "package": "com.google.android.syncadapters.contacts",
+            "path": "/system/product/app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Android 键盘 (AOSP)",
+            "package": "com.android.inputmethod.latin",
+            "path": "/system/product/app/LatinIME/LatinIME.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Module Metadata",
+            "package": "com.google.android.modulemetadata",
+            "path": "/system/product/app/ModuleMetadataGooglePrebuilt/ModuleMetadataGooglePrebuilt.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "性能模式",
+            "package": "com.qualcomm.qti.performancemode",
+            "path": "/system/product/app/PerformanceMode/PerformanceMode.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "QDCM-FF",
+            "package": "com.qti.snapdragon.qdcm_ff",
+            "path": "/system/product/app/QdcmFF/QdcmFF.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.qualcomm.qti.qtisettings",
+            "package": "com.qualcomm.qti.qtisettings",
+            "path": "/system/product/app/QtiSettings/QtiSettings.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.qualcomm.qti.qtisystemservice",
+            "package": "com.qualcomm.qti.qtisystemservice",
+            "path": "/system/product/app/QtiSystemService/QtiSystemService.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.qualcomm.qti.telephonyservice",
+            "package": "com.qualcomm.qti.telephonyservice",
+            "path": "/system/product/app/QtiTelephonyService/QtiTelephonyService.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.qualcomm.qti.simsettings",
+            "package": "com.qualcomm.qti.simsettings",
+            "path": "/system/product/app/SimSettings/SimSettings.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.example.tmo",
+            "package": "com.example.tmo",
+            "path": "/system/product/app/TmoEngMode/TmoEngMode.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Trichrome Library",
+            "package": "com.google.android.trichromelibrary",
+            "path": "/system/product/app/TrichromeLibrary/TrichromeLibrary.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Android System WebView",
+            "package": "com.google.android.webview",
+            "path": "/system/product/app/WebViewGoogle/WebViewGoogle.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.qti.service.colorservice",
+            "package": "com.qti.service.colorservice",
+            "path": "/system/product/app/colorservice/colorservice.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Secure UI Service",
+            "package": "com.qualcomm.qti.services.secureui",
+            "path": "/system/product/app/com.qualcomm.qti.services.secureui/com.qualcomm.qti.services.secureui.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.qti.qualcomm.datastatusnotification",
+            "package": "com.qti.qualcomm.datastatusnotification",
+            "path": "/system/product/app/datastatusnotification/datastatusnotification.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.qualcomm.embms",
+            "package": "com.qualcomm.embms",
+            "path": "/system/product/app/embms/embms.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.qualcomm.qti.ims",
+            "package": "com.qualcomm.qti.ims",
+            "path": "/system/product/app/imssettings/imssettings.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.qualcomm.qti.remoteSimlockAuth",
+            "package": "com.qualcomm.qti.remoteSimlockAuth",
+            "path": "/system/product/app/remoteSimLockAuthentication/remoteSimLockAuthentication.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.qualcomm.qti.uim",
+            "package": "com.qualcomm.qti.uim",
+            "path": "/system/product/app/remotesimlockservice/remotesimlockservice.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Android Accessibility Suite",
+            "package": "com.google.android.marvin.talkback",
+            "path": "/system/product/app/talkback/talkback.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.qualcomm.qti.uimGbaApp",
+            "package": "com.qualcomm.qti.uimGbaApp",
+            "path": "/system/product/app/uimgbaservice/uimgbaservice.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.qualcomm.qti.lpa",
+            "package": "com.qualcomm.qti.lpa",
+            "path": "/system/product/app/uimlpaservice/uimlpaservice.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.qualcomm.uimremoteclient",
+            "package": "com.qualcomm.uimremoteclient",
+            "path": "/system/product/app/uimremoteclient/uimremoteclient.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.qualcomm.uimremoteserver",
+            "package": "com.qualcomm.uimremoteserver",
+            "path": "/system/product/app/uimremoteserver/uimremoteserver.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.android.carrierconfig",
+            "package": "com.android.carrierconfig",
+            "path": "/system/product/priv-app/CarrierConfig/CarrierConfig.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "ConfigUpdater",
+            "package": "com.google.android.configupdater",
+            "path": "/system/product/priv-app/ConfigUpdater/ConfigUpdater.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Google Play 服务",
+            "package": "com.google.android.gms",
+            "path": "/system/product/priv-app/GmsCore/GmsCore.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Google One Time Init",
+            "package": "com.google.android.onetimeinitializer",
+            "path": "/system/product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Google Partner Setup",
+            "package": "com.google.android.partnersetup",
+            "path": "/system/product/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Google Play 服务更新程序",
+            "package": "com.android.vending",
+            "path": "/system/product/priv-app/GooglePlayServicesUpdater/GooglePlayServicesUpdater.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Google 服务框架",
+            "package": "com.google.android.gsf",
+            "path": "/system/product/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Device Personalization Services",
+            "package": "com.google.android.as",
+            "path": "/system/product/priv-app/LiveCaption/LiveCaption.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "applocker",
+            "package": "com.oneplus.applocker",
+            "path": "/system/product/priv-app/OPAppLocker/OPAppLocker.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "系统界面",
+            "package": "com.android.systemui",
+            "path": "/system/product/priv-app/OPSystemUI/OPSystemUI.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "LTE Broadcast Manager",
+            "package": "com.qti.ltebc",
+            "path": "/system/product/priv-app/QAS_DVC_MSP/QAS_DVC_MSP.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "设置",
+            "package": "com.android.settings",
+            "path": "/system/product/priv-app/Settings/Settings.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "Settings Suggestions",
+            "package": "com.android.settings.intelligence",
+            "path": "/system/product/priv-app/SettingsIntelligence/SettingsIntelligence.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "存储空间管理器",
+            "package": "com.android.storagemanager",
+            "path": "/system/product/priv-app/StorageManager/StorageManager.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.android.wallpapercropper",
+            "package": "com.android.wallpapercropper",
+            "path": "/system/product/priv-app/WallpaperCropper/WallpaperCropper.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.qti.dpmserviceapp",
+            "package": "com.qti.dpmserviceapp",
+            "path": "/system/product/priv-app/dpmserviceapp/dpmserviceapp.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "org.codeaurora.ims",
+            "package": "org.codeaurora.ims",
+            "path": "/system/product/priv-app/ims/ims.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "com.qualcomm.qcrilmsgtunnel",
+            "package": "com.qualcomm.qcrilmsgtunnel",
+            "path": "/system/product/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk",
+            "type": "",
+            "description": ""
+        },
+        {
+            "name": "SecCamService",
+            "package": "com.qualcomm.qti.seccamservice",
+            "path": "/system/product/priv-app/seccamservice/seccamservice.apk",
+            "type": "",
+            "description": ""
+        }
+    ]
+}
